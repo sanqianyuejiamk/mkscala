@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/work_github/micronaut-nonblocking-async-demo" value="PREVIEW" />
+        <entry key="$USER_HOME$/work_github/work_graphql/graphql-spring-webclient" value="PREVIEW" />
+        <entry key="$USER_HOME$/work_github/work_graphql/spring-boot-graphql-java" value="PREVIEW" />
+        <entry key="$USER_HOME$/work_github/work_graphql02/graphql-server-demo" value="PREVIEW" />
+        <entry key="$USER_HOME$/work_github/work_graphql_kickstart/samples" value="PREVIEW" />
+        <entry key="$USER_HOME$/work_github/work_graphql_kickstart/samples/servlet-hello-world" value="PREVIEW" />
+        <entry key="$USER_HOME$/work_github/work_learnjava/java-performance-benchmarks" value="PREVIEW" />
+        <entry key="$USER_HOME$/work_github/work_resilience4j/resilience4j-spring-boot2-demo" value="PREVIEW" />
+        <entry key="$USER_HOME$/work_github/work_resilience4j/resilience4j-spring-cloud2-demo" value="PREVIEW" />
+        <entry key="$USER_HOME$/work_github/work_resilience4j/resilience4j-spring-cloud2-demo/client" value="PREVIEW" />
+        <entry key="$USER_HOME$/work_sanqianyuejia_2022/android-demo/MyApplication2" value="PREVIEW" />
+        <entry key="$USER_HOME$/work_sanqianyuejia_2022/spring-learn-2022/graphql-server-demo" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="82" />
+    <option name="y" value="23" />
+    <option name="width" value="1358" />
+    <option name="height" value="820" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+</project>
